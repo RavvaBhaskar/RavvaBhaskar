@@ -1,12 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhaskar Ravva</h1>
-<h3 align="center">Frontend developer</h3>
-
-<div align=center>
-  <a href="https://www.linkedin.com/in/sadanandpai/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-  <a href="https://twitter.com/paicube"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
-  <br><br>
- <p><img src="https://komarev.com/ghpvc/?username=sadanandpai" alt="sadanandpai" /></p>
-</div>
+<h1 align="center">Hi 👋, I'm Bhaskar Ravva - Frontend Developer</h1>
 
 A result-oriented professional with more than 9 + years of qualitative experience in Software development, architectural designs, performance optimizations, and Agile. Accomplished IT professional with experience in systems design and implementation; Broad experience in software architecture and development; experience in introducing the new technologies for making the development process easier, building custom components to reduce the developer's effort to create the repeated tasks. High performance, high-availability secure reliable system; experienced team player and technical advisor, work well with customers. Adept in estimates, design, implementation, testing, integration, performance analysis, build and test infrastructure. Experience in designing, architecting, and organizing team of Developers to deliver solutions to customers across multiple industry sectors such as Worked Telecom, Insurance, E-commerce, HRMS Domains..  
 
