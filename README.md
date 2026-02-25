@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhaskar Ravva - Frontend Developer</h1>
+<h1 align="center">Hi 👋, I'm Bhaskar Ravva - Fullstack Developer</h1>
 
 A result-oriented professional with more than 13 + years of qualitative experience in Software development, architectural designs, performance optimizations, and Agile. Accomplished IT professional with experience in systems design and implementation; Broad experience in software architecture and development; experience in introducing the new technologies for making the development process easier, building custom components to reduce the developer's effort to create the repeated tasks. High performance, high-availability secure reliable system; experienced team player and technical advisor, work well with customers. Adept in estimates, design, implementation, testing, integration, performance analysis, build and test infrastructure. Experience in designing, architecting, and organizing team of Developers to deliver solutions to customers across multiple industry sectors such as Worked Telecom, Insurance, E-commerce, HRMS Domains..  
 
